@@ -1,6 +1,7 @@
 #Calculator Javascript
 A simple, beautiful, and efficient calculator built with modern JavaScript (ES6). This project showcases clean code organization, a responsive UI, and reliable arithmetic operations suitable for everyday use.
-<img width="1089" height="618" alt="Snap36" src="https://github.com/user-attachments/assets/b2f06a34-774a-45e1-9110-f84edc85fe13" />
+
+![Simple Calculator in JavaScript 2025](https://github.com/user-attachments/assets/911611cf-53a3-4fee-a53f-514a5e2539c4)
 
 Features
 Smooth and elegant UI: Modern, user-friendly, responsive design for all screen sizes.
